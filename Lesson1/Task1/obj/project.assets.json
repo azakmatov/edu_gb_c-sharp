@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Education\\gb\\Введение-в-программирование__c-sharp\\CSharp_With_Git\\01_CSharp\\lesson1\\task1\\task1.csproj",
-      "projectName": "task1",
-      "projectPath": "D:\\Education\\gb\\Введение-в-программирование__c-sharp\\CSharp_With_Git\\01_CSharp\\lesson1\\task1\\task1.csproj",
+      "projectUniqueName": "D:\\Education\\gb\\Введение-в-программирование__c-sharp\\CSharp_With_Git\\01_CSharp\\Lesson1\\Task1\\Task1.csproj",
+      "projectName": "Task1",
+      "projectPath": "D:\\Education\\gb\\Введение-в-программирование__c-sharp\\CSharp_With_Git\\01_CSharp\\Lesson1\\Task1\\Task1.csproj",
       "packagesPath": "C:\\Users\\Professional\\.nuget\\packages\\",
-      "outputPath": "D:\\Education\\gb\\Введение-в-программирование__c-sharp\\CSharp_With_Git\\01_CSharp\\lesson1\\task1\\obj\\",
+      "outputPath": "D:\\Education\\gb\\Введение-в-программирование__c-sharp\\CSharp_With_Git\\01_CSharp\\Lesson1\\Task1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Professional\\AppData\\Roaming\\NuGet\\NuGet.Config"
