@@ -1,0 +1,5 @@
+D:\Education\gb\Введение-в-программирование__c-sharp\CSharp_With_Git\01_CSharp\Lesson1\Task5\obj\Debug\net8.0\Task5.GeneratedMSBuildEditorConfig.editorconfig
+D:\Education\gb\Введение-в-программирование__c-sharp\CSharp_With_Git\01_CSharp\Lesson1\Task5\obj\Debug\net8.0\Task5.AssemblyInfoInputs.cache
+D:\Education\gb\Введение-в-программирование__c-sharp\CSharp_With_Git\01_CSharp\Lesson1\Task5\obj\Debug\net8.0\Task5.AssemblyInfo.cs
+D:\Education\gb\Введение-в-программирование__c-sharp\CSharp_With_Git\01_CSharp\Lesson1\Task5\obj\Debug\net8.0\Task5.csproj.CoreCompileInputs.cache
+D:\Education\gb\Введение-в-программирование__c-sharp\CSharp_With_Git\01_CSharp\Lesson1\Task5\obj\Debug\net8.0\Task5.sourcelink.json
