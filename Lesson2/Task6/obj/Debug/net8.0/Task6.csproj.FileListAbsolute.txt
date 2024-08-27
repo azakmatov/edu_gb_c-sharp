@@ -1,0 +1,15 @@
+D:\Education\gb\Введение-в-программирование__c-sharp\CSharp_With_Git\01_CSharp\Lesson2\Task6\bin\Debug\net8.0\Task6.exe
+D:\Education\gb\Введение-в-программирование__c-sharp\CSharp_With_Git\01_CSharp\Lesson2\Task6\bin\Debug\net8.0\Task6.deps.json
+D:\Education\gb\Введение-в-программирование__c-sharp\CSharp_With_Git\01_CSharp\Lesson2\Task6\bin\Debug\net8.0\Task6.runtimeconfig.json
+D:\Education\gb\Введение-в-программирование__c-sharp\CSharp_With_Git\01_CSharp\Lesson2\Task6\bin\Debug\net8.0\Task6.dll
+D:\Education\gb\Введение-в-программирование__c-sharp\CSharp_With_Git\01_CSharp\Lesson2\Task6\bin\Debug\net8.0\Task6.pdb
+D:\Education\gb\Введение-в-программирование__c-sharp\CSharp_With_Git\01_CSharp\Lesson2\Task6\obj\Debug\net8.0\Task6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Education\gb\Введение-в-программирование__c-sharp\CSharp_With_Git\01_CSharp\Lesson2\Task6\obj\Debug\net8.0\Task6.AssemblyInfoInputs.cache
+D:\Education\gb\Введение-в-программирование__c-sharp\CSharp_With_Git\01_CSharp\Lesson2\Task6\obj\Debug\net8.0\Task6.AssemblyInfo.cs
+D:\Education\gb\Введение-в-программирование__c-sharp\CSharp_With_Git\01_CSharp\Lesson2\Task6\obj\Debug\net8.0\Task6.csproj.CoreCompileInputs.cache
+D:\Education\gb\Введение-в-программирование__c-sharp\CSharp_With_Git\01_CSharp\Lesson2\Task6\obj\Debug\net8.0\Task6.sourcelink.json
+D:\Education\gb\Введение-в-программирование__c-sharp\CSharp_With_Git\01_CSharp\Lesson2\Task6\obj\Debug\net8.0\Task6.dll
+D:\Education\gb\Введение-в-программирование__c-sharp\CSharp_With_Git\01_CSharp\Lesson2\Task6\obj\Debug\net8.0\refint\Task6.dll
+D:\Education\gb\Введение-в-программирование__c-sharp\CSharp_With_Git\01_CSharp\Lesson2\Task6\obj\Debug\net8.0\Task6.pdb
+D:\Education\gb\Введение-в-программирование__c-sharp\CSharp_With_Git\01_CSharp\Lesson2\Task6\obj\Debug\net8.0\Task6.genruntimeconfig.cache
+D:\Education\gb\Введение-в-программирование__c-sharp\CSharp_With_Git\01_CSharp\Lesson2\Task6\obj\Debug\net8.0\ref\Task6.dll
